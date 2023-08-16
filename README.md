@@ -8,4 +8,7 @@
 | [Надёжность заёмщиков](reliability_of_borrowers/data_of_bank.ipynb) | Исследование влияния семейного положения и количества детей клиента на факт возврата кредита в срок на основе статистики о платёжеспособности клиентов | *pandas* |
 | [Продажа квартир в Санкт-Петербурге](real_property/sales_appartments.ipynb) | Установление параметров для определения рыночной стоимости объектов недвижимости | *pandas*, *matplotlib* |
 | [Прибыльность тарифов оператора сотовой связи](cellular_communication/two_tariffs.ipynb) | Анализ поведения клиентов и определение самого прибыльного тарифа | *pandas* |
-| [Изучение закономерностей, определяющих успешность игр](cellular_communication/two_tariffs.ipynb) | Исследование влияния жанра, платформы и рейтинга игр на их успешность | *pandas, matplotlib, seaborn, numpy, stats* |
+| [Изучение закономерностей, определяющих успешность игр](computer_games/succeful_games.ipynb) | Исследование влияния жанра, платформы и рейтинга игр на их успешность | *pandas, matplotlib, seaborn, numpy, stats* |
+| [Анализ убытков приложения ProcrastinatePRO+](cellular_communication/two_tariffs.ipynb) | Исследование расходов на привлечение клиентов.
+Определение факторов, мешающих привлечению клиентов. | *pandas, matplotlib, seaborn, numpy, stats, datetime* |
+
