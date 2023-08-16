@@ -10,4 +10,5 @@
 | [Прибыльность тарифов оператора сотовой связи](cellular_communication/two_tariffs.ipynb) | Анализ поведения клиентов и определение самого прибыльного тарифа | *pandas* |
 | [Изучение закономерностей, определяющих успешность игр](computer_games/succeful_games.ipynb) | Исследование влияния жанра, платформы и рейтинга игр на их успешность | *pandas, matplotlib, seaborn, numpy, stats* |
 | [Анализ убытков приложения ProcrastinatePRO+](ad_channels/procrastinate.ipynb) | Исследование расходов на привлечение клиентов. Определение факторов, мешающих привлечению клиентов. | *pandas, matplotlib, seaborn, numpy, stats, datetime* |
-
+| [Проверка гипотез по увеличению выручки в интернет-магазине — оценка результата A/B теста](ad_channels/procrastinate.ipynb) | Приоритизация гипотез и
+анализ результатов A/B-тестирования. | *pandas, matplotlib, seaborn, numpy, stats, datetime* |
