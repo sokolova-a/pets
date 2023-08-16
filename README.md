@@ -11,4 +11,5 @@
 | [Изучение закономерностей, определяющих успешность игр](computer_games/succeful_games.ipynb) | Исследование влияния жанра, платформы и рейтинга игр на их успешность | *pandas, matplotlib, seaborn, numpy, stats* |
 | [Анализ убытков приложения ProcrastinatePRO+](ad_channels/procrastinate.ipynb) | Исследование расходов на привлечение клиентов. Определение факторов, мешающих привлечению клиентов | *pandas, matplotlib, seaborn, numpy, stats, datetime* |
 | [Проверка гипотез по увеличению выручки в интернет-магазине — оценка результата A/B теста](AB_testing/RICE_of_shop.ipynb) | Приоритизация гипотез и анализ результатов A/B-тестирования | *pandas, matplotlib, SciPy* |
-| [Анализ пользовательского поведения в мобильном приложении](sales_of_food/app_of_foodstuffs.ipynb) | Сравнение поведения пользователей до и после изменений в интерфейсе. | *pandas, matplotlib, seaborn, plotly* |
+| [Анализ пользовательского поведения в мобильном приложении](sales_of_food/app_of_foodstuffs.ipynb) | Сравнение поведения пользователей до и после изменений в интерфейсе | *pandas, matplotlib, seaborn, plotly* |
+| [Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](public_catering/Moscow_caffee.ipynb) | Исследование рынка общественного питания на основе открытых данных, подготовка презентации | *pandas, seaborn, plotly* |
