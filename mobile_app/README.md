@@ -28,3 +28,6 @@
 
 ## Используемые библиотеки
 *pandas, matplotlib, seaborn, numpy, stats, graph_objects, expres, json*
+
+## Вывод
+Проект закончен
