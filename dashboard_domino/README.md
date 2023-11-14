@@ -21,4 +21,5 @@
 *SQL, LookerStudio, BigQuery*
 
 ## Вывод
-Проект завершён
+Проект завершён.
+[Ссылка на дашборд](https://lookerstudio.google.com/reporting/e51bbce4-c621-4a9e-a79b-1cd911d27712)
