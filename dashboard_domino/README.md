@@ -22,4 +22,4 @@
 
 ## Вывод
 Проект завершён.
-[Ссылка на дашборд](https://lookerstudio.google.com/reporting/e51bbce4-c621-4a9e-a79b-1cd911d27712)
+[Ссылка на дашборд](https://lookerstudio.google.com/reporting/4c6f75e6-a795-41e6-ae78-54fd1c9e87cd)
